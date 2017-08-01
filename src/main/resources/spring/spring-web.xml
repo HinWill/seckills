@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
     <!--配置springmvc
 
-    首先开启springmvc的注解模
+    首先开启springmvc的注解模式
 
     -->
     <mvc:annotation-driven/>
