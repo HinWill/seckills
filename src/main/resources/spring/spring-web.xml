@@ -19,6 +19,8 @@
     <!--静态资源默认servlet配置-->
     <mvc:default-servlet-handler/>
 
+
+
     <!--配置jsp，显示viewResolver-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
